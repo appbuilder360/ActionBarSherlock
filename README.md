@@ -24,9 +24,6 @@ Continuous integration is provided by [Travis CI][7].
 
 
 Developed By
-
-
-
 ============
 
 * Jake Wharton - <jakewharton@gmail.com>
